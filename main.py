@@ -18,7 +18,6 @@ import os
 import cv2
 import time
 from mtcnn import MTCNN
-import lightgbm as lgb  # Assuming you have LightGBM installed
 
 
 app = Flask(__name__)
